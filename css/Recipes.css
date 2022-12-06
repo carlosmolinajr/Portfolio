@@ -1,0 +1,21 @@
+#salad {
+    height: 15px;
+    width: 25%;
+    height: 25%;
+  }
+
+  .description {
+    font-size: 20px;
+  }
+
+  #cook-time {
+    font-weight: bold;
+  }
+
+  li, .ingredients {
+    list-style: square;
+  }
+
+  * {
+    font-family: Helvetica;
+  }
