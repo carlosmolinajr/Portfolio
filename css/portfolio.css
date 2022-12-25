@@ -411,7 +411,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -430,7 +430,7 @@ section {
   color: #050d18;
 }
 
-.skills .progress .skill .val {
+.skills .progress .skill .val .teller{
   float: right;
   font-style: normal;
 }
@@ -607,6 +607,10 @@ section {
 .portfolio .portfolio-wrap:hover .portfolio-links {
   opacity: 1;
   bottom: 0;
+}
+
+#pasta, #angles, #teller{
+  width: 25%;
 }
 
 /*--------------------------------------------------------------
